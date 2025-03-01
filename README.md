@@ -1,4 +1,4 @@
-# desafio01_rocketseat
+# desafio01
 # Desafio 01
 
 Desafio referente ao módulo: Introdução ao Python
@@ -39,5 +39,3 @@ Após concluir o desafio, você deve enviar a URL do seu código no GitHub para 
 Além disso, que tal fazer um post no LinkedIn compartilhando o seu aprendizado e contando como foi a experiência?
 
 É uma excelente forma de demonstrar seus conhecimentos e atrair novas oportunidades!
-
-Feito com 💜 por Rocketseat 👋
